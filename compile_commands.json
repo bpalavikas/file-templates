@@ -1,0 +1,12 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinc",
+      "src/*.c"
+    ],
+    "directory": "<main directory>",
+    "file": "<main directory>/src/*.c"
+  }
+]
